@@ -23,7 +23,7 @@ const Header = () => {
         {/* Heading */}
         <h1 className="max-w-4xl text-5xl font-bold leading-tight text-gray-900 md:text-6xl">
           Write Better Blogs with the
-          <span className="text-blue-600"> Power of AI</span>
+          <span className="text-blue-600"> Power of AI...</span>
         </h1>
 
         {/* Description */}
