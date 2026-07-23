@@ -80,7 +80,7 @@ const Sidebar = () => {
             className="h-5 w-5"
           />
 
-          <span>Comments</span>
+          <span>Comments..</span>
         </NavLink>
       </nav>
     </aside>
